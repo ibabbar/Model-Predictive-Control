@@ -105,4 +105,4 @@ The final simulation video of 2 laps around the track can be downloaded [from th
 
 ## Comments 
 Model Predictive Control can be integrated with Deep Learning to create a more robust self-tuning dynamic model instead of using a kinematic model.
-This should produce much better,smoother and more realistic driving.
+This should produce much better, smoother and more realistic driving.
